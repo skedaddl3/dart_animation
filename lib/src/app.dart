@@ -1,3 +1,4 @@
+import 'package:animation/src/screens/home.dart';
 import 'package:flutter/material.dart';
 
 class App extends StatelessWidget {
