@@ -16,3 +16,5 @@ This repository contains Section 17 of Dart & Flutter Course: Building Delightfu
 - Stack Dimensions
 - Layouts, Constraints, Offsets, Ranges & Values
 - Animation State
+
+test Readme Config
